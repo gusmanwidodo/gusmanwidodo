@@ -18,7 +18,7 @@ Hi, I'm Gusman, a software engineer from Indonesia. Currently using golang and t
 
 ### ⚒️ Framework
 ![Gin](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Gin&logo=Gin)
-![Express JS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Express&logo=express)
+![NestJS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Nestjs&logo=nestjs)
 ![Laravel](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Laravel&logo=laravel)
 ![DotNET](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=.NET&logo=dotnet)
 ![React](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=React&logo=react)
