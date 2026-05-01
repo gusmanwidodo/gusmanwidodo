@@ -1,6 +1,6 @@
 ## Hello world!
 
-Hi, I'm Gusman, a software engineer from Indonesia. Currently using golang and typescript as the main language to build the application. I like movies, Lord of the rings is one of my favourite movies all the time. Fun fact, I was crying when watching Interstellar.
+Hi, I'm Gusman, a software engineer from Indonesia. Currently using golang and typescript as the main language to build the application. I like movies, Lord of the rings is one of my favourite movies all the time.
 
 
 ### 🔌 Let's Connect
